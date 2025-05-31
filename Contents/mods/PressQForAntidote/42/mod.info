@@ -1,0 +1,8 @@
+id=pressQForAntidote
+modversion=1.0.1
+name=Press Q for Antidote
+author=kolpaque
+description=Racoon was right - there is an antidote on Q!
+poster=poster.png
+icon=icon.png
+versionMin=42.0

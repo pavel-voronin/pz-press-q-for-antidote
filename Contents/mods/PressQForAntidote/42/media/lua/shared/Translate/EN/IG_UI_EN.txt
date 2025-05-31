@@ -1,0 +1,3 @@
+IGUI_EN = {
+  IGUI_PQFA_Shout = "God bless that raccoon - there's an antidote on Q!",
+}
